@@ -15,7 +15,7 @@ namespace Lesson1
             Console.WriteLine("ersyjtuykfiyfujtyh");
             for (int p = 0; p < 10; p++)
             {
-
+                Console.WriteLine();
             }
             Console.WriteLine("1afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("2afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
