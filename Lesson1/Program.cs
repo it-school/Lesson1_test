@@ -8,17 +8,22 @@ namespace Lesson1
 {
     class Program
     {
-        static int a = 1;
+        static int t = 1;
         static void Main(string[] args)
         {
-            
+            Console.WriteLine();
+            Console.WriteLine("ersyjtuykfiyfujtyh");
+            for (int p = 0; p < 10; p++)
+            {
+
+            }
             Console.WriteLine("1afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("2afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            a++;
+            t++;
             Console.WriteLine("3afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("4afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("5afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            a++;
+            t++;
             Console.WriteLine("6afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("7afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("8afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
