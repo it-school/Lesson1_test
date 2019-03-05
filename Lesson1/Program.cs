@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +16,7 @@ namespace Lesson1111
             Console.WriteLine("ersyjtuykfiyfujtyh");
             for (int p = 0; p < 10; p++)
             {
+                Console.WriteLine(p);
                 Console.WriteLine(p);
             }
             Console.WriteLine("1afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
