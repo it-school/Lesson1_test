@@ -35,7 +35,6 @@ namespace Lesson1111
 
             Console.WriteLine(obj=a);
             Console.ReadLine();
-
         }
     }
 }
