@@ -18,6 +18,8 @@ namespace Lesson1111
             {
                 Console.WriteLine(p);
                 Console.WriteLine(p);
+                Console.WriteLine(p);
+
             }
             Console.WriteLine("1afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
             Console.WriteLine("2afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
