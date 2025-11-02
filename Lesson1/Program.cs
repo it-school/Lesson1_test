@@ -1,39 +1,23 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Lesson1111
 {
     class Program
     {
-        static int t = 1;
         static void Main(string[] args)
-        {
-            
+        {            
             Console.WriteLine();
-            Console.WriteLine("ersyjtuykfiyfujtyh");
-            for (int p = 0; p < 10; p++)
-            {
-                Console.WriteLine(p*p);
-
-            }
-            Console.WriteLine("1afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            Console.WriteLine("2afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-
-            t++;
-            Console.WriteLine("3afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            Console.WriteLine("4afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            Console.WriteLine("5afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            t++;
-            Console.WriteLine("6afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            Console.WriteLine("7afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            Console.WriteLine("8afsgdxhgcjhvkhjlkbjbhjkghjfghdfgsdf");
-            int a = 0;
-            Object obj ;
-
-            Console.WriteLine(obj=a);
+            Console.WriteLine("8 messages will be printed line by line: ");
+            Console.WriteLine("1 line of text");
+            Console.WriteLine("2 line of text");
+            Console.WriteLine("3 line of text");
+            Console.WriteLine("4 line of text");
+            Console.WriteLine("5 line of text");
+            Console.WriteLine("6 line of text");
+            Console.WriteLine("7 line of text");
+            Console.WriteLine("8 line of text");
+            
             Console.ReadLine();
         }
     }
