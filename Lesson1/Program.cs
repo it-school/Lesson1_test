@@ -9,7 +9,7 @@ namespace Lesson1111
         {            
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Мое имя: ...");
-            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Мой город: ...");
             Console.ResetColor(); // Не забудьте сбросить цвет в конце!
             Console.WriteLine();
